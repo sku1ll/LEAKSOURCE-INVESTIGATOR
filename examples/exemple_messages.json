@@ -1,0 +1,4 @@
+[
+  {"platform":"reddit","url":"https://www.reddit.com/r/example/comments/abc123/placeholder/def456/","author":"user_demo","text":"How did you watch the episode before release?","external_id":"t1_def456","parent_ref":"t3_abc123"},
+  {"platform":"reddit","url":"https://www.reddit.com/r/example/comments/abc123/placeholder/ghi789/","author":"example_author","text":"This is a fictional example: I received an advance screener from a distributor.","external_id":"t1_ghi789","parent_ref":"t1_def456"}
+]
